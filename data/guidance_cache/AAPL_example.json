@@ -1,0 +1,23 @@
+[
+  {
+    "metric": "Revenue",
+    "value": 90.0,
+    "period": "Q1 2024",
+    "unit": "USD billions",
+    "source_label": "Q4 2023 Earnings Call"
+  },
+  {
+    "metric": "EPS",
+    "value": 1.52,
+    "period": "Q1 2024",
+    "unit": "USD",
+    "source_label": "Q4 2023 Earnings Call"
+  },
+  {
+    "metric": "Gross Margin",
+    "value": 45.0,
+    "period": "Q1 2024",
+    "unit": "%",
+    "source_label": "Q4 2023 Earnings Call"
+  }
+]
